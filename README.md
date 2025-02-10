@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 -💡 I'm passionate about Tech and Tennis :)   
 -⚡ Fun fact: Music keeps me alive   
 
+<!--
 ## 🛠 Tech Stack
  
 ### 👨‍💻 Programming Languages    
@@ -39,6 +40,25 @@ Here are some ideas to get you started:
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+-->
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Programming Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+
+### 📊 Data Science & AI
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Machine_learning.svg" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/OpenCV_Logo_with_text.png" width="50" height="50"/>
+
+### 🛠 Tools & Platforms
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG
+
 
 
 
