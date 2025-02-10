@@ -50,7 +50,17 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="50" height="50"/><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="120" height="40"/>
 
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VrindaBajaj20&show_icons=true&theme=dark)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VrindaBajaj20&layout=compact&theme=dark)
+-->
+
+## Connect with Me
+
+## Connect with Me
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/vrinda-bajaj-71385b259/))
+- [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:vrinda.bajaj20@gmail.com)
+
 
 
 
