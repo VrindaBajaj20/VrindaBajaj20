@@ -16,8 +16,12 @@ Here are some ideas to get you started:
 -->
 -![Profile Views](https://komarev.com/ghpvc/?username=VrindaBajaj20&color=blue)
 
--🚀 I'm keen on building innovative projects in Machine Learning and Deep Learning
--🌱 I'm currently learning Data Science and Artificial Intelligence 
--💡 I'm passionate about Tech and Tennis :) 
--⚡ Fun fact: Music keeps me alive 
+-🚀 I'm keen on building innovative projects in Machine Learning and Deep Learning  
+
+-🌱 I'm currently learning Data Science and Artificial Intelligence   
+
+-💡 I'm passionate about Tech and Tennis :)   
+
+-⚡ Fun fact: Music keeps me alive   
+
 
