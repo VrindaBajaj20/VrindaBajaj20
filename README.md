@@ -4,7 +4,7 @@
 
 🚀 I'm keen on building innovative projects in Machine Learning and Deep Learning  
 🌱 I'm currently learning Data Science and Artificial Intelligence   
-❄️ I’m looking to collaborate on Machine Learning Projects.   
+❄️ I’m open to collaborate on Reinforcement learning & Computer Vision Projects.   
 💡 I'm passionate about Tech and Tennis :)  
 ⚡ Fun fact: Music keeps me alive    
 
