@@ -3,43 +3,132 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Typing Effect</title>
+    <title>Vrinda Bajaj - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
     <style>
-        body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; }
-        .typing { font-size: 24px; font-weight: bold; }
+        body {
+            font-family: Arial, sans-serif;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        #main-header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #fff 3px solid;
+            text-align: center;
+        }
+        #main-header h1 {
+            margin: 0;
+        }
+        #about-me img {
+            border-radius: 50%;
+            margin: 10px 0;
+        }
+        #skills {
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        #skills h2 {
+            margin-top: 0;
+        }
+        .badge {
+            display: inline-block;
+            margin: 5px;
+        }
+        .stats, .connect {
+            margin: 20px 0;
+            align-self: center;
+            margin-left: 30%;
+            align-content: center;
+        }
+        .connect img {
+            margin-right: 10px;
+        }
     </style>
 </head>
 <body>
-    <p class="typing"></p>
 
-    <script>
-        const textArray = ["Hi, I am Vrinda", "A Data Engineer", "Machine Learning Enthusiast"];
-        let textIndex = 0;
-        let charIndex = 0;
-        let isDeleting = false;
-        const speed = 100;
-        const typingElement = document.querySelector(".typing");
+    <header id="main-header">
+        <div class="container">
+            <h1>Hey there 👋, Welcome to my Github Profile</h1>
+            <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Vrinda;Machine+Learning...;Computer+Vision+Enthusiast...;AI..." alt="Typing Text">
+        </div>
+    </header>
 
-        function typeEffect() {
-            const currentText = textArray[textIndex];
-            if (isDeleting) {
-                typingElement.textContent = currentText.substring(0, charIndex--);
-            } else {
-                typingElement.textContent = currentText.substring(0, charIndex++);
-            }
+    <section id="about-me" class="container">
+       
 
-            if (!isDeleting && charIndex === currentText.length) {
-                isDeleting = true;
-                setTimeout(typeEffect, 1000);
-            } else if (isDeleting && charIndex === 0) {
-                isDeleting = false;
-                textIndex = (textIndex + 1) % textArray.length;
-            }
+        <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" alt="Profile Gif" width="40%">
+        
+        <h2>⚡🙋‍♂️ About Me</h2>
+        <ul>
+            <li>🚀 I'm keen on building innovative projects in Machine Learning and Deep Learning</li>
+            <li>🌱 I'm currently learning Data Science and Artificial Intelligence</li>
+            <li>💡 I'm passionate about Tech and Tennis :)</li>
+            <li>❄️ I’m looking to collaborate on Machine Learning Projects.</li>
+            <li>📫 Reach out to me at vrinda.bajaj20a@gmail.com</li>
+        </ul>
+    </section>
 
-            setTimeout(typeEffect, isDeleting ? speed / 2 : speed);
-        }
+   <section id="skills" class="container">
+    <h2>🛠️ Skills</h2>
 
-        typeEffect();
-    </script>
+    <h3>Languages</h3>
+    <div>
+        <img class="badge" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge">
+        <img class="badge" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge">
+        <img class="badge" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
+        <img class="badge" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
+        <img class="badge" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
+    </div>
+
+    <h3>Development</h3>
+    <div>
+        <img class="badge" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge">
+        <img class="badge" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge">
+        <img class="badge" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV Badge">
+        <img class="badge" src="https://img.shields.io/badge/Streamlit-FF4B1F?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Badge">
+    </div>
+
+    <h3>Database</h3>
+    <div>
+        <img class="badge" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
+        
+    </div>
+
+    <h3>Tools and Technologies</h3>
+    <div>
+        <img class="badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+        <img class="badge" src="https://img.shields.io/badge/Jupyter-0066B8?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook Badge">
+        <img class="badge" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge">
+    
+    </div>
+</section>
+
+
+    <section class="container stats">
+        <h2>📊 GitHub Stats</h2>
+        <img src="https://github-readme-stats.vercel.app/api?username=Tanush-g&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&bg_color=ffffff00&hide_border=true&text_color=000000&icon_color=2e75b6&title_color=2e75b6" alt="GitHub Stats">
+    </section>
+
+    <section class="container connect">
+        <h2>📫 Connect with me</h2>
+        <a href="mailto:vrinda.bajaj20@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
+        <a href="https://www.linkedin.com/in/vrinda-bajaj-71385b259/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+        <a href="https://github.com/VrindaBajaj20" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
+        
+    </section>
+
 </body>
 </html>
