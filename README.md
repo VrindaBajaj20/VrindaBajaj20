@@ -1,4 +1,6 @@
+
 ## Hi there 👋 I am Vrinda Bajaj
+![Typing Text](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&color=FFC0CB&size=25&lines=Hey!+Its+Vrinda;Machine+Learning;Computer+Vision+Enthusiast;Artificial+Intelligence)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VrindaBajaj20&color=blue)
 
@@ -94,6 +96,10 @@ Here are some ideas to get you started:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/vrinda-bajaj-71385b259/))
 - [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:vrinda.bajaj20@gmail.com)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VrindaBajaj20&show_icons=true&hide=prs&count_private=true&theme=dark)
+
 
 
 
