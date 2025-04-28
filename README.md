@@ -98,8 +98,20 @@ Here are some ideas to get you started:
 - [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:vrinda.bajaj20@gmail.com)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VrindaBajaj20&show_icons=true&hide=prs&count_private=true&theme=dark)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=VrindaBajaj20&theme=darkhub)
+## 📚 Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VrindaBajaj20&layout=compact&theme=dark)
+
+
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=VrindaBajaj20&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=VrindaBajaj20&theme=dark" alt="GitHub Streak" /></td>
+  </tr>
+</table>
 
 
 
